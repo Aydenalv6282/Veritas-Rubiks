@@ -1,1 +1,1 @@
-Please be forgiving, this was one of the first times I used pytorch :)
+Please be forgiving, this was the first time I did anything AI related :)
